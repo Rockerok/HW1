@@ -11,5 +11,8 @@ public class Fibonachy {
             return fibonachi_rec(fib - 1) + fibonachi_rec(fib - 2);
         }
     }
+    public static int fibonachi_cicle(int fib) {
+        return fib;
+    }
+    }
 
-}
